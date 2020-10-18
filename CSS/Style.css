@@ -1,0 +1,219 @@
+
+body{
+	background-color:white;
+}
+.navbar{
+	margin-right:0px;
+	margin-left:325px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  width: auto;
+  height: auto;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3;
+  letter-spacing: normal;
+  text-align: right;
+  color: #fcf9f9;
+  padding: 20px;
+  margin: 0px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #111111;
+}
+
+.text1{
+  width: 557px;
+  height: 161px;
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.13;
+  letter-spacing: normal;
+  margin:308px 108px 278px 606px;
+  text-align: left;
+  color: #faf7f7;
+}
+
+.text2{
+  width: 557px;
+  height: 82px;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fdfcfc;
+  margin: 520px 652px 337px 124px;
+}
+
+footer{
+	background-color: #031f4b;
+	margin:0px;
+	overflow: auto;
+	padding: 1px;
+}
+.footer_rect{
+  width: auto;
+  height: 346px;
+  background-color: #031f4b;
+}
+
+.footer_text1{
+  width: auto;
+  height: 84px;
+  display: inline;
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 36.16px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fcf9f9;
+}
+
+.home-mid-rect{
+  width: 50%;
+  height: 224px;
+  background-color: rgba(215, 110, 34, 0.1);
+}
+
+#A1{
+  width: 1364px;
+  height: 161px;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #020000;
+}
+
+#A2{
+  width: 576px;
+  height: 103px;
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #020000;
+}
+
+#A3{
+	width: 442px;
+  height: 101px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #020000;
+}
+
+.footer_text2{
+  width: auto;
+  height: 29px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fcf9f9;
+}
+
+
+header{
+  width;100%;
+  height: 10%;
+  object-fit: contain;
+  background-image: linear-gradient(119deg, #4c3871 8%, #021f4b 90%);
+  margin: 0px;
+  overflow: auto;
+  padding: 1px;
+}
+
+body::-webkit-scrollbar{
+	width:4px;
+}
+
+body::-webkit-scrollbar-track{
+	background: #4a3f35;
+}
+
+body::-webkit-scrollbar-thumb{
+	background: #fa7d09;
+}
+#S1{
+ width: 557px;
+  height: 161px;
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.13;
+  letter-spacing: normal;
+  text-align: left;
+  color: #faf7f7;
+}
+#S2{
+	  width: 557px;
+  height: 82px;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fdfcfc;
+}
+.S-background{
+	  width: 100%;
+  height: 20%;
+  border: solid 1px #707070;
+  background-image: linear-gradient(119deg, #4c3871 8%, #021f4b 90%);
+}
+
+.f-right{
+	float:right;
+}

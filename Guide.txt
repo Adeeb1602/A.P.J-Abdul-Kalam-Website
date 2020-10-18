@@ -1,0 +1,33 @@
+--------------------------------------GUIDE--------------------------GUIDE---------------------------------------
+This is the brief guide of the website
+
+TECHNICAL DETAILS:
+The folder contains the following:
+a) Images:
+   Containing all static i.e. images.
+
+b) CSS:
+   Containing all the stylesheets used in the code.
+
+c) HTML:
+   Containing all the html files. Run the Home.html file.
+
+WEBSITE DETAILS:
+No of webpages:5
+Name of webpages:
+a)Home:
+  The enterance to the website contains the timeline and some information regarding A.P.J Abdul Kalam
+
+b) Biography:
+   Dictates the journey of Dr.A.P.J.Abdul Kalam
+
+c) Famous Quotes:
+   A delight for the brain
+
+d)Achievments:
+  Achievments got by Mr. Kalam:
+  i) Civilian Awards
+  ii)Achievments regarding the missile program and the development in the Indian Space Program
+
+e)Contribution to Space Education:
+  Details about the journey in DRDO and ISRO

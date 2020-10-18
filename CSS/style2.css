@@ -1,0 +1,281 @@
+#A4{
+  width: 1076px;
+  height: 58px;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #02000b;
+}
+
+#A5{
+  width: 185px;
+  height: 101px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #020000;
+ }
+ 
+#B2{
+	margin-bottom: 30px;
+}
+
+
+
+#H1{
+  width: 1386px;
+  height: 58px;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #02000b;
+}
+
+
+#H2{
+  width: 1010px;
+  height: 58px;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #02000b;
+}
+
+#H3 {
+  width: 1238px;
+  height: 58px;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #02000b;
+}
+
+#H4{
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+#P1{
+  width: 669px;
+  height: 230px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  text-align: left;
+  color: #02000b;
+}
+
+#P2{
+  width: 669px;
+  height: 230px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  text-align: left;
+  color: #02000b;
+}
+
+#P3{
+  width: 669px;
+  height: 230px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  text-align: left;
+  color: #02000b;
+}
+
+#P4{
+  width: 1072px;
+  height: 348px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#P5{
+  width: 1072px;
+  height: 348px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#P6{
+  width: 1072px;
+  height: 348px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#P7{
+  width: 579px;
+  height: 379px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#P8{
+  width: 1104px;
+  height: 576px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0b0b0b;
+}
+
+#Q1{
+	  width: 303px;
+  height: 195px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f9f8fa;
+}
+#Q2{
+	  width: 275px;
+  height: 195px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+#Q3{
+	  width: 276px;
+  height: 195px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: left;
+  color: #faf7f7;
+}
+.big-rect{
+  width: 85%;
+  height: 1511px;
+  background-color: rgba(215, 110, 34, 0.1);
+}
+
+.Rectangle-9 {
+  width: 70%;
+  height: 314px;
+  background-color: rgba(215, 110, 34, 0.1);
+}
+
+.Rectangle-8 {
+  width: 83%;
+  height: 314px;
+  background-color: rgba(215, 110, 34, 0.25);
+}
+
+.Rectangle-7{
+  width: 83%;
+  height: 450px;
+  background-color: rgba(215, 110, 34, 0.1);
+}
+
+.Rectangle-6 {
+  width: 83%;
+  height: 450spx;
+  background-color: rgba(215, 110, 34, 0.25);
+}
+
+.Rectangle-5{
+  width: 398px;
+  height: 200px;
+  background-color: #282b5e;
+}
+
+.Rectangle-4{
+  width: 398px;
+  height: 400px;
+  background-color: rgba(215, 110, 34, 0.1);
+}
+
+.Rectangle-3{
+  width: 398px;
+  height: 200px;
+  background-color: rgba(242, 108, 29, 0.7);
+}
